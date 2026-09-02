@@ -60,7 +60,11 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joalesf&theme=tokyo-night&hide_border=true&area=true)
 
-![Contribution Snake](https://raw.githubusercontent.com/Joalesf/Joalesf/output/snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joalesf/Joalesf/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joalesf/Joalesf/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Joalesf/Joalesf/output/snake.svg">
+</picture>
 
 </div>
 
