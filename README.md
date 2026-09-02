@@ -1,14 +1,8 @@
-<div align="center">
-
 ## Hi, I'm Joalesf
 
-<h3 align="justify">
+<p align="justify">
 Senior Software Developer focused on automation, integrations, networks, AI workflows, and practical software solutions.
-</h3>
-
-</div>
-
----
+</p>
 
 ## Focused On
 
