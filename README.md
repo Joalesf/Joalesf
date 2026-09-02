@@ -45,11 +45,10 @@ I design software solutions that connect systems, automate processes, and move d
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joalesf-111827?style=flat-square&logo=github&logoColor=white&labelColor=050505)](https://github.com/Joalesf)
-
-<br>
-
-<img alt="Panama flag" width="20" src="https://flagcdn.com/w40/pa.png"> From Panama City
+<a href="https://github.com/Joalesf">
+  <img alt="GitHub Joalesf" height="24" src="https://img.shields.io/badge/GitHub-Joalesf-111827?style=flat-square&logo=github&logoColor=white&labelColor=050505">
+</a>
+<img alt="Panama flag" height="18" src="https://flagcdn.com/w40/pa.png">
 
 </div>
 
