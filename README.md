@@ -1,10 +1,20 @@
-<img alt="Animated profile introduction" width="1000" height="350" src="./assets/profile-intro.svg">
+## Hi, I'm Joalesf
 
-<div align="center">
-  <img alt="Technical terminal profile banner" width="1000" height="320" src="./assets/profile-terminal.svg">
-</div>
+<p align="justify">
+Senior Software Developer focused on automation, integrations, networks, AI workflows, and practical software solutions.
+</p>
 
-<img alt="Technologies and Tools" width="1000" height="56" src="./assets/technologies-heading.svg">
+## Focused On
+
+<p align="justify">
+I design software solutions that connect systems, automate processes, and move data clearly across platforms. My work brings together development, databases, network protocols, MQTT, dashboards, web camera integrations, and Industry 4.0 connectivity.
+</p>
+
+- Building automation workflows, dashboards, and connected systems.
+- Improving software architecture, integrations, and data flows.
+- Creating reliable solutions for real technical environments.
+
+## Technologies and Tools
 
 <div align="center">
 
@@ -29,7 +39,7 @@
 </div>
 
 
-<img alt="Connect With Me" width="1000" height="56" src="./assets/connect-heading.svg">
+## Connect With Me
 
 <div align="center">
 
@@ -42,4 +52,8 @@
 
 ---
 
-<img alt="Thanks for visiting my profile. This space will keep growing along with my projects." width="1000" height="42" src="./assets/profile-footer.svg">
+<div align="center">
+
+Thanks for visiting my profile. This space will keep growing along with my projects.
+
+</div>
