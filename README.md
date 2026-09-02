@@ -4,6 +4,10 @@
 Senior Software Developer focused on automation, integrations, networks, AI workflows, and practical software solutions.
 </p>
 
+<div align="center">
+  <img alt="Technical terminal profile banner" width="100%" src="./assets/profile-terminal.svg">
+</div>
+
 ## Focused On
 
 <p align="justify">
