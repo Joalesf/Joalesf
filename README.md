@@ -54,8 +54,6 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 </div>
 
-## Contribution Graph
-
 <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joalesf&theme=tokyo-night&hide_border=true&area=true)
