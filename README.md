@@ -1,10 +1,6 @@
-<img alt="Animated profile introduction" width="100%" src="./assets/profile-intro.svg">
+<img alt="Animated profile introduction and terminal banner" width="100%" src="./assets/profile-hero.svg">
 
-<div align="center">
-  <img alt="Technical terminal profile banner" width="100%" src="./assets/profile-terminal.svg">
-</div>
-
-<img alt="Technologies and Tools" width="100%" src="./assets/technologies-heading.svg">
+## Technologies and Tools
 
 <div align="center">
 
@@ -29,7 +25,7 @@
 </div>
 
 
-<img alt="Connect With Me" width="100%" src="./assets/connect-heading.svg">
+## Connect With Me
 
 <div align="center">
 
@@ -42,4 +38,8 @@
 
 ---
 
-<img alt="Thanks for visiting my profile. This space will keep growing along with my projects." width="100%" src="./assets/profile-footer.svg">
+<div align="center">
+
+Thanks for visiting my profile. This space will keep growing along with my projects.
+
+</div>
