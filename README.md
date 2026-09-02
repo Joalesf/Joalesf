@@ -2,7 +2,7 @@
 
 # Hi, I'm Joalesf
 
-### Senior developer in continuous growth, deeply involved in technology, software solutions, automation, networks, integrations, AI workflows, and process optimization.
+### Senior Software Developer focused on software solutions, automation, networks, integrations, AI workflows, and process optimization.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Joalesf&style=flat-square&color=2563eb)
 ![GitHub followers](https://img.shields.io/github/followers/Joalesf?style=flat-square&logo=github&color=111827)
@@ -13,17 +13,21 @@
 
 ## Focused On
 
+<p align="justify">
 I focus on designing and delivering practical software solutions that connect systems, automate processes, and improve the way information moves across platforms. My work combines software development, network infrastructure, communication protocols, databases, data flows, and clean project architecture.
+</p>
 
+<p align="justify">
 I am especially interested in automation, AI-assisted workflows, MQTT, web camera integrations, dashboards, network protocols, industrial connectivity, and Industry 4.0 implementations. I work with a problem-solving mindset, building solutions that are reliable, scalable, and useful in real environments.
+</p>
 
 ## Current Focus
 
 - Building practical applications and automation workflows.
-- Improving my programming fundamentals and project organization.
+- Improving software architecture and project organization.
 - Writing cleaner, more readable, and maintainable code.
-- Learning more about Git, GitHub, and collaborative development.
-- Growing a portfolio that shows real progress through hands-on projects.
+- Strengthening integrations between platforms, devices, and data sources.
+- Growing a portfolio that shows progress through real, hands-on projects.
 
 ## Technologies and Tools
 
