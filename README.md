@@ -29,6 +29,12 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=050505)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26&labelColor=050505)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6&labelColor=050505)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=050505)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB&labelColor=050505)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB&labelColor=050505)
 ![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=050505)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=38BDF8&labelColor=050505)
 ![MQTT](https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=F472B6&labelColor=050505)
@@ -39,6 +45,9 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316&labelColor=050505)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=050505)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-111827?style=flat-square&logo=androidstudio&logoColor=3DDC84&labelColor=050505)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032&labelColor=050505)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white&labelColor=050505)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=050505)
 
 </div>
 
