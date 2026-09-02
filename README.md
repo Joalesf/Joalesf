@@ -29,16 +29,16 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 <div align="center">
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0F766E?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=111827)
+![n8n](https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=050505)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=38BDF8&labelColor=050505)
+![MQTT](https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=F472B6&labelColor=050505)
+![Networking](https://img.shields.io/badge/Networking-111827?style=flat-square&logo=cisco&logoColor=2DD4BF&labelColor=050505)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED&labelColor=050505)
+![C Sharp](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=A78BFA&labelColor=050505)
+![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=A78BFA&labelColor=050505)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316&labelColor=050505)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=050505)
+![Android Studio](https://img.shields.io/badge/Android_Studio-111827?style=flat-square&logo=androidstudio&logoColor=3DDC84&labelColor=050505)
 
 </div>
 
@@ -72,7 +72,7 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joalesf-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joalesf)
+[![GitHub](https://img.shields.io/badge/GitHub-Joalesf-111827?style=flat-square&logo=github&logoColor=white&labelColor=050505)](https://github.com/Joalesf)
 
 </div>
 
