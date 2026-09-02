@@ -2,10 +2,9 @@
 
 # Hi, I'm Joalesf
 
-### Senior Software Developer focused on software solutions, automation, networks, integrations, AI workflows, and process optimization.
-
-![Profile views](https://komarev.com/ghpvc/?username=Joalesf&style=flat-square&color=2563eb)
-![GitHub followers](https://img.shields.io/github/followers/Joalesf?style=flat-square&logo=github&color=111827)
+<h3 align="justify">
+Senior Software Developer focused on software solutions, automation, networks, integrations, AI workflows, and process optimization.
+</h3>
 
 </div>
 
