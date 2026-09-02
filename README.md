@@ -54,18 +54,6 @@ I am especially interested in automation, AI-assisted workflows, MQTT, web camer
 
 </div>
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joalesf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joalesf&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Joalesf&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Contribution Graph
 
 <div align="center">
