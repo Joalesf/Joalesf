@@ -27,16 +27,14 @@ I design software solutions that connect systems, automate processes, and move d
 <img alt="n8n" height="24" src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=050505">
 <img alt="SQL" height="24" src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=38BDF8&labelColor=050505">
 <img alt="MQTT" height="24" src="https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=F472B6&labelColor=050505">
-<img alt="Networking" height="24" src="https://img.shields.io/badge/Networking-111827?style=flat-square&logo=cisco&logoColor=2DD4BF&labelColor=050505">
 <img alt="Docker" height="24" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED&labelColor=050505">
-<img alt="C Sharp" height="24" src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=A78BFA&labelColor=050505">
+<img alt="C#" height="24" src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=A78BFA&labelColor=050505">
 <img alt=".NET" height="24" src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=A78BFA&labelColor=050505">
 <img alt="Java" height="24" src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316&labelColor=050505">
 <img alt="Kotlin" height="24" src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=050505">
 <img alt="Android Studio" height="24" src="https://img.shields.io/badge/Android_Studio-111827?style=flat-square&logo=androidstudio&logoColor=3DDC84&labelColor=050505">
 <img alt="Git" height="24" src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032&labelColor=050505">
 <img alt="GitHub" height="24" src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white&labelColor=050505">
-<img alt="VS Code" height="24" src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=050505">
 
 </div>
 
