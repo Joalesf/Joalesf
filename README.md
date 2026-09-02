@@ -1,10 +1,10 @@
-<img alt="Animated profile introduction" width="100%" src="./assets/profile-intro.svg">
+<img alt="Animated profile introduction" width="1000" height="350" src="./assets/profile-intro.svg">
 
 <div align="center">
-  <img alt="Technical terminal profile banner" width="100%" src="./assets/profile-terminal.svg">
+  <img alt="Technical terminal profile banner" width="1000" height="320" src="./assets/profile-terminal.svg">
 </div>
 
-<img alt="Technologies and Tools" width="100%" src="./assets/technologies-heading.svg">
+<img alt="Technologies and Tools" width="1000" height="56" src="./assets/technologies-heading.svg">
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 </div>
 
 
-<img alt="Connect With Me" width="100%" src="./assets/connect-heading.svg">
+<img alt="Connect With Me" width="1000" height="56" src="./assets/connect-heading.svg">
 
 <div align="center">
 
@@ -42,4 +42,4 @@
 
 ---
 
-<img alt="Thanks for visiting my profile. This space will keep growing along with my projects." width="100%" src="./assets/profile-footer.svg">
+<img alt="Thanks for visiting my profile. This space will keep growing along with my projects." width="1000" height="42" src="./assets/profile-footer.svg">
