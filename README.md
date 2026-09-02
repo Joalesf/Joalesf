@@ -16,8 +16,6 @@ Senior Software Developer focused on automation, integrations, networks, AI work
 I design software solutions that connect systems, automate processes, and move data clearly across platforms. My work brings together development, databases, network protocols, MQTT, dashboards, web camera integrations, and Industry 4.0 connectivity.
 </p>
 
-## Current Focus
-
 - Building automation workflows, dashboards, and connected systems.
 - Improving software architecture, integrations, and data flows.
 - Creating reliable solutions for real technical environments.
