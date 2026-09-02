@@ -4,7 +4,7 @@
   </style>
   <g opacity="0">
     <text x="0" y="36">Technologies and Tools</text>
-    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.8s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0;.35;1" dur="2.2s" begin="0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0" keyTimes="0;.35;1" dur="2.2s" begin="0s" fill="freeze"/>
   </g>
 </svg>

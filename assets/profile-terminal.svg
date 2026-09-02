@@ -35,19 +35,19 @@
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="0.25s" fill="freeze"/>
     </text>
 
-    <text x="64" y="98" class="label" opacity="0">software / automation / networks
+    <text x="64" y="98" class="label" opacity="0">joalesf@workspace: run automation stack
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.55s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="0.55s" fill="freeze"/>
     </text>
-    <text x="64" y="128" class="line" opacity="0"><tspan class="accent">$</tspan> build --systems --data-flow --integrations
+    <text x="64" y="128" class="line" opacity="0"><tspan class="accent">$</tspan> n8n execute --workflow industrial-data-flow
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.85s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="0.85s" fill="freeze"/>
     </text>
-    <text x="64" y="154" class="line" opacity="0">status: <tspan class="accent">online</tspan> | stack: C# .NET Java Kotlin React Node.js
+    <text x="64" y="154" class="line" opacity="0"><tspan class="soft">></tspan> MQTT broker connected -> SQL stream normalized
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.15s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="1.15s" fill="freeze"/>
     </text>
-    <text x="64" y="180" class="line" opacity="0">protocols: MQTT SQL Docker AI workflows Industry 4.0
+    <text x="64" y="180" class="line" opacity="0"><tspan class="accent">$</tspan> dotnet run --project dashboard.api
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.45s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="1.45s" fill="freeze"/>
     </text>
@@ -127,15 +127,15 @@
     </g>
 
     <rect x="530" y="178" width="370" height="76" rx="8" fill="#081827" stroke="#1f3b57"/>
-    <text x="554" y="208" class="muted" opacity="0">pipeline
+    <text x="554" y="208" class="muted" opacity="0">runtime output
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.85s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="0.85s" fill="freeze"/>
     </text>
-    <text x="554" y="232" class="line" opacity="0"><tspan class="accent">01</tspan> capture data -> normalize -> dashboard
+    <text x="554" y="232" class="line" opacity="0"><tspan class="accent">ok</tspan> camera feed routed to dashboard
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.15s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="1.15s" fill="freeze"/>
     </text>
-    <text x="554" y="252" class="line" opacity="0"><tspan class="soft">02</tspan> devices -> protocols -> automation
+    <text x="554" y="252" class="line" opacity="0"><tspan class="soft">ok</tspan> integrations ready for deployment
       <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.45s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.7s" begin="1.45s" fill="freeze"/>
     </text>
