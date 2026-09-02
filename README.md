@@ -3,7 +3,7 @@
 # Hi, I'm Joalesf
 
 <h3 align="justify">
-Senior Software Developer focused on software solutions, automation, networks, integrations, AI workflows, and process optimization.
+Senior Software Developer focused on automation, integrations, networks, AI workflows, and practical software solutions.
 </h3>
 
 </div>
@@ -13,20 +13,14 @@ Senior Software Developer focused on software solutions, automation, networks, i
 ## Focused On
 
 <p align="justify">
-I focus on designing and delivering practical software solutions that connect systems, automate processes, and improve the way information moves across platforms. My work combines software development, network infrastructure, communication protocols, databases, data flows, and clean project architecture.
-</p>
-
-<p align="justify">
-I am especially interested in automation, AI-assisted workflows, MQTT, web camera integrations, dashboards, network protocols, industrial connectivity, and Industry 4.0 implementations. I work with a problem-solving mindset, building solutions that are reliable, scalable, and useful in real environments.
+I design software solutions that connect systems, automate processes, and move data clearly across platforms. My work brings together development, databases, network protocols, MQTT, dashboards, web camera integrations, and Industry 4.0 connectivity.
 </p>
 
 ## Current Focus
 
-- Building practical applications and automation workflows.
-- Improving software architecture and project organization.
-- Writing cleaner, more readable, and maintainable code.
-- Strengthening integrations between platforms, devices, and data sources.
-- Growing a portfolio that shows progress through real, hands-on projects.
+- Building automation workflows, dashboards, and connected systems.
+- Improving software architecture, integrations, and data flows.
+- Creating reliable solutions for real technical environments.
 
 ## Technologies and Tools
 
