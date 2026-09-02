@@ -4,6 +4,8 @@
 Senior Software Developer focused on automation, integrations, networks, AI workflows, and practical software solutions.
 </p>
 
+From Panama City
+
 ## Focused On
 
 <p align="justify">
